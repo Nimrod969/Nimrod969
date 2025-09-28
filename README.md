@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on: **beginner-friendly open source projects**  
 - 🤔 I’m looking for help with: **best practices in C# and AI basics**  
 - 💬 Ask me about: **my journey as a student programmer**  
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santiago-afonso-078086373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](mailto:santiagoafonso969@gmail.com)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/santiago-afonso-078086373?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](santiagoafonso969@gmail.com)**  
 - 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: **I love airplanes and can spend hours learning about aviation!**  
 
