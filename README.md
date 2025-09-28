@@ -33,9 +33,9 @@
 
 ## 📊 GitHub Stats
 
-![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=tokyonight)
+![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimrod969&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimrod969&layout=compact&theme=tokyonight)
 
 ---
 
